@@ -1,0 +1,27 @@
+C:\Users\Viraj\Desktop\Jayasinghe, Vissrawa\C#\CAVJ\CAVJ\bin\Debug\CAVJ.exe.config
+C:\Users\Viraj\Desktop\Jayasinghe, Vissrawa\C#\CAVJ\CAVJ\bin\Debug\CAVJ.exe
+C:\Users\Viraj\Desktop\Jayasinghe, Vissrawa\C#\CAVJ\CAVJ\bin\Debug\CAVJ.pdb
+C:\Users\Viraj\Desktop\Jayasinghe, Vissrawa\C#\CAVJ\CAVJ\obj\Debug\CAVJ.csprojAssemblyReference.cache
+C:\Users\Viraj\Desktop\Jayasinghe, Vissrawa\C#\CAVJ\CAVJ\obj\Debug\CAVJ.Form1.resources
+C:\Users\Viraj\Desktop\Jayasinghe, Vissrawa\C#\CAVJ\CAVJ\obj\Debug\CAVJ.Properties.Resources.resources
+C:\Users\Viraj\Desktop\Jayasinghe, Vissrawa\C#\CAVJ\CAVJ\obj\Debug\CAVJ.csproj.GenerateResource.cache
+C:\Users\Viraj\Desktop\Jayasinghe, Vissrawa\C#\CAVJ\CAVJ\obj\Debug\CAVJ.csproj.CoreCompileInputs.cache
+C:\Users\Viraj\Desktop\Jayasinghe, Vissrawa\C#\CAVJ\CAVJ\obj\Debug\CAVJ.exe
+C:\Users\Viraj\Desktop\Jayasinghe, Vissrawa\C#\CAVJ\CAVJ\obj\Debug\CAVJ.pdb
+C:\Users\Viraj\Desktop\Jayasinghe, Vissrawa\C#\CAVJ\CAVJ\obj\Debug\CAVJ.StartUpScreen.resources
+C:\Users\Viraj\Desktop\Jayasinghe, Vissrawa\C#\CAVJ\CAVJ\obj\Debug\CAVJ.LoadingScreen.resources
+C:\Users\Viraj\Desktop\Jayasinghe, Vissrawa\C#\CAVJ\CAVJ\obj\Debug\CAVJ.MainMenu.resources
+C:\Users\Viraj\Desktop\Jayasinghe, Vissrawa\C#\CAVJ\CAVJ\obj\Debug\CAVJ.AddStudent.resources
+\\leviathan\students\G\g9164\Desktop\CAVJ\CAVJ\bin\Debug\CAVJ.exe.config
+\\leviathan\students\G\g9164\Desktop\CAVJ\CAVJ\obj\Debug\CAVJ.exe
+\\leviathan\students\G\g9164\Desktop\CAVJ\CAVJ\obj\Debug\CAVJ.pdb
+\\leviathan\students\G\g9164\Desktop\CAVJ\CAVJ\bin\Debug\CAVJ.exe
+\\leviathan\students\G\g9164\Desktop\CAVJ\CAVJ\bin\Debug\CAVJ.pdb
+\\leviathan\students\G\g9164\Desktop\CAVJ\CAVJ\obj\Debug\CAVJ.csprojResolveAssemblyReference.cache
+\\leviathan\students\G\g9164\Desktop\CAVJ\CAVJ\obj\Debug\CAVJ.AddStudent.resources
+\\leviathan\students\G\g9164\Desktop\CAVJ\CAVJ\obj\Debug\CAVJ.Form1.resources
+\\leviathan\students\G\g9164\Desktop\CAVJ\CAVJ\obj\Debug\CAVJ.LoadingScreen.resources
+\\leviathan\students\G\g9164\Desktop\CAVJ\CAVJ\obj\Debug\CAVJ.MainMenu.resources
+\\leviathan\students\G\g9164\Desktop\CAVJ\CAVJ\obj\Debug\CAVJ.Properties.Resources.resources
+\\leviathan\students\G\g9164\Desktop\CAVJ\CAVJ\obj\Debug\CAVJ.StartUpScreen.resources
+\\leviathan\students\G\g9164\Desktop\CAVJ\CAVJ\obj\Debug\CAVJ.csproj.GenerateResource.Cache
